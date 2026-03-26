@@ -1,0 +1,47 @@
+[
+  {
+    "question": "Multiplexer has",
+    "qid": 1,
+    "option_a": "Many input one output",
+    "option_b": "Many input many output",
+    "option_c": "One input many output",
+    "option_d": "One input one output",
+    "correct_option": "a"
+  },
+  {
+    "question": "How many 4:1 MUX required to design 16:1 MUX?",
+    "qid": 2,
+    "option_a": "2",
+    "option_b": "3",
+    "option_c": "4",
+    "option_d": "5",
+    "correct_option": "d"
+  },
+  {
+    "question": "Which IC is required to design 16:1 MUX?",
+    "qid": 3,
+    "option_a": "74LS191",
+    "option_b": "74LS153",
+    "option_c": "74LS00",
+    "option_d": "74LS93",
+    "correct_option": "b"
+  },
+  {
+    "question": "How many inputs and outputs are there in 16:1 Multiplexer?",
+    "qid": 4,
+    "option_a": "16 inputs 1 output",
+    "option_b": "8 inputs 16 output",
+    "option_c": "4 inputs 1 output",
+    "option_d": "1 inputs 16 output",
+    "correct_option": "a"
+  },
+  {
+    "question": "Applications of Multiplexer are ______",
+    "qid": 5,
+    "option_a": "In Communication System",
+    "option_b": "In Computer memory",
+    "option_c": "In Telephone Network",
+    "option_d": "All of the above",
+    "correct_option": "d"
+  }
+]

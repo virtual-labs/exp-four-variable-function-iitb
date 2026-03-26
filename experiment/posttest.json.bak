@@ -1,0 +1,47 @@
+[
+  {
+    "question": "16:1 MUX have how many select lines?",
+    "qid": 1,
+    "option_a": "1",
+    "option_b": "2",
+    "option_c": "3",
+    "option_d": "4",
+    "correct_option": "d"
+  },
+  {
+    "question": "To design 16:1 MUX using IC 74LS153 how many such IC's are required?",
+    "qid": 2,
+    "option_a": "1",
+    "option_b": "2",
+    "option_c": "3",
+    "option_d": "4",
+    "correct_option": "c"
+  },
+  {
+    "question": "If select lines are S<sub>3</sub> S<sub>2</sub> S<sub>1</sub> S<sub>0</sub> = 1111 then which input is selected by 16:1 multiplexer?",
+    "qid": 3,
+    "option_a": "D15",
+    "option_b": "D5",
+    "option_c": "D8",
+    "option_d": "D4",
+    "correct_option": "a"
+  },
+  {
+    "question": "A combinational circuit that selects one from many inputs is _________.",
+    "qid": 4,
+    "option_a": "Encoder",
+    "option_b": "Decoder",
+    "option_c": "Demux",
+    "option_d": "Mux",
+    "correct_option": "d"
+  },
+  {
+    "question": "The number of select lines for 32:1 multiplexer is _____.",
+    "qid": 5,
+    "option_a": "4",
+    "option_b": "5",
+    "option_c": "16",
+    "option_d": "3",
+    "correct_option": "b"
+  }
+]
