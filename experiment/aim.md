@@ -1,1 +1,1 @@
-### Aim of the experiment
+To design and implement the given 4 variable function using IC74LS153. Verify its Truth-Table.
